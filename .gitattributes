@@ -1,0 +1,5 @@
+LICENCE filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+script.js filter=lfs diff=lfs merge=lfs -text
+style.css filter=lfs diff=lfs merge=lfs -text
+index.html filter=lfs diff=lfs merge=lfs -text
